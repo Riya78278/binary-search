@@ -1,4 +1,5 @@
-// Split Array Largest Sum or The Painter's Partition Problem-II
+// Split Array Largest Sum or The Painter's Partition Problem-II (leetcode , gfs )
+
 #include <iostream>
 #include<numeric>
 

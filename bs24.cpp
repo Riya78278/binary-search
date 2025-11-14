@@ -4,8 +4,6 @@
 #include<numeric>
 
 using namespace std;
-
-
 class Solution {
 private:
     int countstudent(vector<int>&nums, int pages){

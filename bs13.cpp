@@ -1,4 +1,5 @@
 // Single Among Doubles in a Sorted
+
 #include<iostream>
 using namespace std;
 
